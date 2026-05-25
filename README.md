@@ -72,33 +72,33 @@ Fruits & Vegetables and Snack Foods are the major contributors to overall sales 
 
 Supermarket Type 1 consistently outperformed other outlet formats, making it a strong candidate for future expansion strategies.
 
-📌 KPIs Monitored
-Total Sales
-Average Sales
-Number of Items Sold
-Average Rating
-Outlet Performance
-Category-wise Revenue
-Fat Content Contribution
-Location-wise Sales Distribution
+### 📌 KPIs Monitored
+* Total Sales
+* Average Sales
+* Number of Items Sold
+* Average Rating
+* Outlet Performance
+* Category-wise Revenue
+* Fat Content Contribution
+* Location-wise Sales Distribution
 
-🚀 Skills Demonstrated
-Data Cleaning & Transformation
-Data Modeling
-DAX Calculations
-KPI Development
-Business Intelligence Reporting
-Dashboard Design
-Data Visualization
-Analytical Thinking
-Storytelling with Data
-📚 Learning Outcomes
+### 🚀 Skills Demonstrated
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Calculations
+* KPI Development
+* Business Intelligence Reporting
+* Dashboard Design
+* Data Visualization
+* Analytical Thinking
 
-Through this project, I gained hands-on experience in:
+## 📚 Learning Outcomes
 
-Building end-to-end Power BI dashboards
-Designing interactive visualizations
-Creating business KPIs using DAX
-Data transformation using Power Query
-Converting business requirements into analytical solutions
+##Through this project, I gained hands-on experience in:
+
+- Building end-to-end Power BI dashboards
+- Designing interactive visualizations
+- Creating business KPIs using DAX
+- Data transformation using Power Query
+- Converting business requirements into analytical solutions
 
