@@ -102,3 +102,4 @@ Supermarket Type 1 consistently outperformed other outlet formats, making it a s
 - Data transformation using Power Query
 - Converting business requirements into analytical solutions
 
+Project Link:- 
