@@ -1,0 +1,17 @@
+Project_Name/
+│
+├── datasets/
+│   ├── dataset_1.csv
+│   ├── dataset_2.csv
+│   ├── dataset_3.csv
+│   ├── dataset_4.csv
+│   ├── dataset_5.csv
+│   └── dataset_6.csv
+│
+├── screenshots/
+│   ├── dashboard_1.png
+│   ├── dashboard_2.png
+│   └── dashboard_3.png
+│
+├── Dashboard.pbix
+└── README.md
