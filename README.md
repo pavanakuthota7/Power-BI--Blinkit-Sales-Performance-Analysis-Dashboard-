@@ -6,45 +6,51 @@ This project presents an interactive Power BI dashboard developed to analyze Bli
 
 The objective of this project is to identify key sales drivers, evaluate outlet performance, understand customer purchasing behavior, and provide data-driven recommendations for business growth.
 
-🎯 Business Objectives
+# 🎯 Business Objectives
 Analyze overall sales performance across different outlets.
 Identify top-performing cities and outlet types.
 Understand product category contribution to total sales.
 Compare sales across outlet locations and sizes.
 Track key business KPIs for informed decision-making.
 Discover trends and opportunities for business expansion.
-📊 Dashboard Features
-1️⃣ Sales Performance Dashboard
-Total Sales Analysis
-Average Sales Tracking
-Number of Items Sold
-Average Customer Rating
-Sales Trend Visualization
-2️⃣ Outlet Performance Dashboard
-Sales by Outlet Type
-Sales by Outlet Size
-Sales by Outlet Location Tier
-Establishment Year Analysis
-Outlet Comparison Metrics
-3️⃣ Product & Customer Insights Dashboard
-Sales by Item Category
-Fat Content Analysis
-Top-Selling Product Categories
-Category-wise Revenue Contribution
-Customer Preference Insights
-4️⃣ Interactive Elements
-Dynamic Filters & Slicers
-Drill-Down Analysis
-Interactive KPI Cards
-Gauge Charts
-Cross-Filtering Visuals
-🛠️ Tools & Technologies Used
-Tool	Purpose
-Power BI	Dashboard Development
-Power Query	Data Cleaning & Transformation
-DAX	Calculated Measures & KPIs
-Excel/CSV Dataset	Data Source
-Data Modeling	Relationship Management
+# 📊 Dashboard Features
+
+### 1️⃣ Sales Performance Dashboard
+* Total Sales Analysis
+* Average Sales Tracking
+* Number of Items Sold
+* Average Customer Rating
+* Sales Trend Visualization
+
+### 2️⃣ Outlet Performance Dashboard
+* Sales by Outlet Type
+* Sales by Outlet Size
+* Sales by Outlet Location Tier
+* Establishment Year Analysis
+* Outlet Comparison Metrics
+
+### 3️⃣ Product & Customer Insights Dashboard
+- Sales by Item Category
+- Fat Content Analysis
+- Top-Selling Product Categories
+- Category-wise Revenue Contribution
+- Customer Preference Insights
+
+### 4️⃣ Interactive Elements
+* Dynamic Filters & Slicers
+* Drill-Down Analysis
+* Interactive KPI Cards
+* Gauge Charts
+* Cross-Filtering Visuals
+
+### 🛠️ Tools & Technologies Used
+* Tool	Purpose
+* Power BI	Dashboard Development
+* Power Query	Data Cleaning & Transformation
+* DAX	Calculated Measures & KPIs
+* Excel/CSV Dataset	Data Source
+* Data Modeling	Relationship Management
+
 📈 Key Business Insights
 🔹 Top Performing Markets
 
